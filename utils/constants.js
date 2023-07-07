@@ -9,7 +9,7 @@ export const categories = [
     "Decorations",
     "New Decorations",
     "Birthday Decoration for Home or Room",
-    "Husband's Birthday Special"
+    "Husband's Birthday Special Party Decoration",
 ];
 
 // Product Sliders Offers
